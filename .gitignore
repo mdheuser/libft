@@ -1,0 +1,14 @@
+*.o
+*.a
+a.out
+*.sh
+.nfs*
+.vscode
+.DS_Store
+*.swp
+main.c
+libft_war_machine/
+test.cpp
+atoi_test
+libftTester/
+.bonus
