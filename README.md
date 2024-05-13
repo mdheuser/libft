@@ -77,12 +77,13 @@ descriptor.
 ## BONUS PART
 The bonus part consists of functions to manipulate lists. All of the following functions rely on the struct below, which is defined in the header file (lift.h):
 
-//////// typedef struct s_list
-//////// {
-////////   	void			*content;
-////////	     struct s_list	*next;
-//////// }					t_list;
-
+```
+typedef struct s_list
+{
+	void			*content;
+	struct s_list	*next;
+}					t_list;
+```
 
 ### • t_lstnewAllocates (with malloc(3)) and returns a new node.
 The member variable ’content’ is initialized with
