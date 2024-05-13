@@ -75,7 +75,7 @@ descriptor.
 
 
 ## BONUS PART
-The bonus part consists of functions to manipulate lists. All of the following functions rely on the struct below, which is defined in the header file (lift.h):
+The bonus part consists of functions to manipulate lists. All of the following functions rely on the struct below, which is defined in the header file (libft.h):
 
 ```
 typedef struct s_list
