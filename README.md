@@ -31,7 +31,7 @@ Many of the functions of the projects are re-implementations of existing functio
 
 
 ## PART 2
-Additional functions are either absent libc or present in a different form:
+Additional functions are either absent from libc or found in it in a different form:
 ### • ft_substrAllocates (with malloc(3)) and returns a substring
 from the string ’s’.
 The substring begins at index ’start’ and is of
