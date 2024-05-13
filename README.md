@@ -4,7 +4,7 @@ The Libft project was developed as a part of the curriculum at HIVE Helsinki, a 
 My project successfully passed evaluation by three human evaluators, in addition to Moulinette (School 42's automated evaluator), achieving the maximum score of 125 points, including the bonus section.
 
 ## PART 1
-Many of the functions of the projects are re-implementations of existing functions found in existing c libraries.
+Many of the functions of the project are re-implementations of existing functions found in existing c libraries.
 
 ### • isalpha
 Checks if a character is an alphabetic character (a-z or A-Z).
