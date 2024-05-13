@@ -1,9 +1,7 @@
 # LIBFT
 
-The Libft project was made as part of the curriculum of HIVE Helsinki coding school, part of the 42 network of coding school headquartered in Paris.
-
-My project passed 3 human evaluators, Francinette and Moulinette (School 42's electronic evaluator).
-It received the maximum 125 points, including a bonus part.
+The Libft project was developed as a part of the curriculum at HIVE Helsinki, a coding school affiliated with the 42 network of coding schools headquartered in Paris.
+My project successfully passed evaluation by three human evaluators, in addition to Moulinette (School 42's automated evaluator), achieving the maximum score of 125 points, including the bonus section.
 
 ## PART 1
 Many of the functions of the projects are re-implementations of existing functions found in existing c libraries.  Namely:
