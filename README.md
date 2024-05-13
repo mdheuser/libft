@@ -4,30 +4,76 @@ The Libft project was developed as a part of the curriculum at HIVE Helsinki, a 
 My project successfully passed evaluation by three human evaluators, in addition to Moulinette (School 42's automated evaluator), achieving the maximum score of 125 points, including the bonus section.
 
 ## PART 1
-Many of the functions of the projects are re-implementations of existing functions found in existing c libraries.  Namely:
-• isalpha 
-• isdigit 
-• isalnum 
-• isascii 
-• isprint 
-• strlen 
-• memset 
-• bzero
-• memcpy 
-• memmove 
-• strlcpy 
-• strlcat
-• toupper 
-• tolower 
-• strchr 
-• strrchr 
-• strncmp 
-• memchr 
-• memcmp 
-• strnstr 
-• atoi
-• calloc 
-• strdup
+Many of the functions of the projects are re-implementations of existing functions found in existing c libraries.
+
+### • isalpha
+Checks if a character is an alphabetic character (a-z or A-Z).
+
+### • isdigit
+Checks if a character is a decimal digit (0-9).
+
+### • isalnum
+Checks if a character is alphanumeric (a-z, A-Z, or 0-9).
+
+### • isascii
+Checks if a character is a 7-bit ASCII character (0-127).
+
+### • isprint
+Checks if a character is a printable character (including space).
+
+### • strlen
+Calculates the length of a string (number of characters before the null terminator).
+
+### • memset
+Sets a block of memory to a specified value.
+
+### • bzero
+Clears a block of memory to zero.
+
+### • memcpy
+Copies a block of memory from one location to another.
+
+### • memmove
+Copies a block of memory, handling overlapping memory regions correctly.
+
+### • strlcpy
+Safely copies a C-string into a fixed-sized buffer, avoiding buffer overflow.
+
+### • strlcat
+Safely concatenates a C-string onto the end of another, avoiding buffer overflow.
+
+### • toupper
+Converts a character to its uppercase equivalent.
+
+### • tolower
+Converts a character to its lowercase equivalent.
+
+### • strchr
+Locates the first occurrence of a character in a string.
+
+### • strrchr
+Locates the last occurrence of a character in a string.
+
+### • strncmp
+Compares the first n characters of two strings.
+
+### • memchr
+Locates the first occurrence of a character in a block of memory.
+
+### • memcmp
+Compares two blocks of memory.
+
+### • strnstr
+Locates a substring within a string, with a specified maximum length.
+
+### • atoi
+Converts a string to an integer.
+
+### • calloc
+Allocates memory for an array of elements and initializes them to zero.
+
+### • strdup
+Duplicates a string by dynamically allocating memory and copying the string into it.
 
 
 ## PART 2
